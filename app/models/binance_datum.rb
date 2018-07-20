@@ -1,0 +1,2 @@
+class BinanceDatum < ApplicationRecord
+end
